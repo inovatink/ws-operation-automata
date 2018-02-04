@@ -20,7 +20,7 @@ To modify code -> open [ws-state-diagram.tex](https://github.com/inovatink/ws-op
 
 **Send** - Serialized string holding sensor values and timestamp is sent over Bluetooth.
 
-**Receive** - In this state device checks for any new configuration sent over bluetooth.
+**Receive** - In this state device checks for any new configuration sent over Bluetooth.
 
 
 
